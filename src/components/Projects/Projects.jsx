@@ -1,6 +1,6 @@
 import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
-import TapnDine from '../../assets/TapnDine.png';
+import TapnDine from '../../assets/TapNDine.png';
 import WeatherApp from '../../assets/WeatherApp.png';
 import ProjectCard from '../../common/ProjectCard';
 
