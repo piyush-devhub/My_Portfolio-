@@ -18,7 +18,7 @@ function Projects() {
         />
         <ProjectCard
           src={GeminiLogo}
-          link="https://github.com/piyush-devhub/Weather_App-Mini_Project_1-"
+          link="https://github.com/piyush-devhub/Gemini-Clone"
           h3="Gemini Clone"
           p="GeminiAPI Integration"
         />
