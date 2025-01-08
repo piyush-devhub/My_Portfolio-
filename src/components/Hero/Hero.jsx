@@ -39,10 +39,10 @@ const Hero = () => {
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter Icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/piyush-devhub" target="_blank">
             <img src={githubIcon} alt="GitHub Icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/piyush-kere-7a156828a/" target="_blank">
             <img src={linkedIn} alt="LinkedIn Icon" />
           </a>
         </span>
