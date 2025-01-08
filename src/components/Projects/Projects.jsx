@@ -1,6 +1,7 @@
 import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
 import TapnDine from '../../assets/TapNDine.png';
+import GeminiLogo from '../../assets/GeminiLogo.png';
 import WeatherApp from '../../assets/WeatherApp.png';
 import ProjectCard from '../../common/ProjectCard';
 
@@ -14,6 +15,12 @@ function Projects() {
           link="https://github.com/piyush-devhub/Tap-N-Dine"
           h3="TapnDine"
           p="MERN Food Ordering App"
+        />
+        <ProjectCard
+          src={GeminiLogo}
+          link="https://github.com/piyush-devhub/Weather_App-Mini_Project_1-"
+          h3="Gemini Clone"
+          p="GeminiAPI Integration"
         />
         <ProjectCard
           src={WeatherApp}
